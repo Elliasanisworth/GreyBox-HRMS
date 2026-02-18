@@ -61,3 +61,6 @@ A robust suite to mimic a live hospital environment:
 
 ---
 **"Turning hospital data into hospital foresight."**
+
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
